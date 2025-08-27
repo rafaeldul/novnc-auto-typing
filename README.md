@@ -1,0 +1,1 @@
+# novnc-auto-typing
